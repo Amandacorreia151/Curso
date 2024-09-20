@@ -25,3 +25,7 @@ else if (imc <= 30){
 else {
     alert (`Acima do peso, IMC : ${imc.toFixed(2)}`)
 }
+
+
+
+console.log(`codigo novo`)
